@@ -1,0 +1,9 @@
+Current Ideas:
+
+1. Wander: Travel App including Create and Save Packing Lists, view a weather forecast, and see what's happening with a Google Maps things to do finder
+
+2. PrepLab: Teacher Team Planning tool, plan your week day by day by dropping documents into subject areas
+
+3. Rock Out: live music/event calendar. Buy tickets and get notified about applicable events in your area
+
+4. 
