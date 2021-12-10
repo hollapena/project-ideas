@@ -1,0 +1,20 @@
+Final Choice: 
+  Wander: Travel App allows users to Create, Update, Delete and Save Packing Lists, view a weather forecast, and see what's happening with a Google Maps things to do finder.
+
+
+MVP: 
+  -Users can sign in with a username/password.
+  -Users can create packing lists.
+  -Users can save packing lists to recall later.
+  -Users can edit packing lists.
+  -Users can delete packing lists.
+  -Users can view weather information using zip code or location name.
+  -Users can locate area hotels/restaurants/events on a map via the google maps api.
+
+
+Future Features: 
+  -Users can save specific trip information
+  -Users can add travel companions to their specific trip
+  -A group packing list can allow for collaborative packing (ex: you bring the boogie board, and I'll bring the snorkels )
+  -Users can view flight information and airport maps.
+  -Users can access local transportation maps, etc.

@@ -6,4 +6,6 @@ Current Ideas:
 
 3. Rock Out: live music/event calendar. Buy tickets and get notified about applicable events in your area
 
-4. 
+4. Allow Me: Service Based Allowance system for the Home Economy. 
+
+5. PetLife: Virtual pet that requires work to take care of. Meant to prepare families for taking care of a real pet.
